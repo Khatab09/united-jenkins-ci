@@ -25,3 +25,6 @@ Writing our test cases with Gerkin language in cucumber feature files increases 
  ![Capture](https://user-images.githubusercontent.com/83489226/146301882-32c894a1-85d5-4572-9f22-8d42a6efca78.PNG)
  
  Runner class with CucumberOptions shown below acts as a link between the step definition class and the feature files, which allows us to run the project entirely, or multiple feature files by giving tag names, also generating reports, and more.
+ 
+ ![Capture](https://user-images.githubusercontent.com/83489226/146302310-6dad6887-7873-464a-bb02-ba376c26dd75.PNG)
+
