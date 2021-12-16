@@ -10,3 +10,8 @@ Writing our test cases with Gerkin language in cucumber feature files increases 
  
  Here example of my step definition class:
  ![Capture](https://user-images.githubusercontent.com/83489226/146300836-d6134591-eaac-4e9c-ac0d-6a9090d26d2b.PNG)
+ 
+ 
+ 
+ 
+ Page object model design pattern helped us to better organize our web elements and the corresponding pages, once again increased the readability, reduces the code duplication, and improves test maintenance.
