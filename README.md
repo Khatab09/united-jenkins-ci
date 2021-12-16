@@ -23,8 +23,7 @@ Here is an example of the framework.<br />
 Page object model design pattern helped us to better organize our web elements and the corresponding pages, once again increased the readability, reduces the code duplication and improves test maintenance.<br />
 Page object model design pattern helped us to better organize our web elements and the corresponding pages, once again increased the readability, reduces the code duplication, and improves test maintenance.<br />
 <br />
-
- ![sdfsdfsdf1](https://user-images.githubusercontent.com/40803114/145866782-877e3719-b248-4216-8020-8d3b4be6e387.png)
+![Capture](https://user-images.githubusercontent.com/83489226/146299293-7523e519-9904-46e4-a882-a2f3fc143617.PNG)
 @@ -46,7 +46,7 @@ smoke test cases: 4<br />
 sanity test cases: 5<br />
 regression test case: 42<br />
