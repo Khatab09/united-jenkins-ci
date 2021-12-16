@@ -17,3 +17,7 @@ Writing our test cases with Gerkin language in cucumber feature files increases 
  Page object model design pattern helped us to better organize our web elements and the corresponding pages, once again increased the readability, reduces the code duplication, and improves test maintenance.
  
  ![Capture](https://user-images.githubusercontent.com/83489226/146301393-8981d7bb-37ab-4223-921e-0013338ff74c.PNG)
+ 
+ 
+ 
+ And here is the full structure of the project.
