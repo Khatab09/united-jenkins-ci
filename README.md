@@ -7,3 +7,6 @@
 Writing our test cases with Gerkin language in cucumber feature files increases the readability and reusability.<br />
 
  ![Capture](https://user-images.githubusercontent.com/83489226/146300111-3dae1252-9a97-4d0c-9141-68b2e151a254.PNG)
+ 
+ Here example of my step definition class:
+ ![Capture](https://user-images.githubusercontent.com/83489226/146300836-d6134591-eaac-4e9c-ac0d-6a9090d26d2b.PNG)
